@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
-- :telescope: I am graduating as Bachelor of Computer Science (Honours) at Monash University by December 2023
+- :telescope: I am graduating as Bachelor of Computer Science (Honours) at Monash University (freeman by December 2023 I hope) 
 
 - 🔎 My Honours research is about ```Explainable Artificial Intelligence on breast cancer detection```
   
