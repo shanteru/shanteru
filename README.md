@@ -18,19 +18,19 @@
   <h1>
     Hello 你好  👋
    </h1>
-   <p> The name's <b>Chantelle</b> but you can call me <b>telle</b> </p>
+   <p> The name's <b>Chantelle</b> but you can call me <b>shanteru</b> too ✨ </p>
 </div>
 
 
 ### :woman_technologist: About Me :
 I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
-- :telescope: I am graduating as Bachelor of Computer Science (Honours) at Monash University (freeman by December 2023 I hope) 
+- :telescope: I am graduating as a Bachelor of Computer Science (Honours) at Monash University (First Class Honours obtained! Convocation left @ Nov24") 
 
 - 🔎 My Honours research is about ```Explainable Artificial Intelligence on breast cancer detection```
   
 - :seedling: Exploring Software Development, Machine Learning Deployment and Teaching Code.
 
-- :zap: In my free time, I will work on some web development project and understand latest tool available.
+- :zap: In my free time, I will work on some web development projects and understand the latest tools available.
 
 - 🌞 My favourite programming style is Object Oriented Programming in Java, especially with my [Zombie Game Project](https://github.com/shanteru/zombie-java) since I enjoy game development a lot.
 
