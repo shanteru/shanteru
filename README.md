@@ -23,7 +23,7 @@
 
 
 ### :woman_technologist: About Me :
-I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+I am an aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> going back to Singapore.
 - :telescope: I am graduating as a Bachelor of Computer Science (Honours) at Monash University (First Class Honours obtained! Convocation left @ Nov24") 
 
 - 🔎 My Honours research is about ```Explainable Artificial Intelligence on breast cancer detection```
