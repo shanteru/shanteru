@@ -5,7 +5,7 @@ import { PrismicNextImage } from "@/node_modules/@prismicio/next/dist/PrismicNex
 import { PrismicRichText } from "@/node_modules/@prismicio/react/dist/react-server/PrismicRichText";
 import { Content } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
-import Avatar from "./Avatar";
+import Avatar from "@/components/Avatar";
 
 /**
  * Props for `Biography`.
