@@ -690,14 +690,14 @@ export interface ExperienceSliceDefaultItem {
   time_period: prismic.KeyTextField;
 
   /**
-   * Instituition field in *Experience → Items*
+   * Institution field in *Experience → Items*
    *
    * - **Field Type**: Text
    * - **Placeholder**: *None*
-   * - **API ID Path**: experience.items[].instituition
+   * - **API ID Path**: experience.items[].institution
    * - **Documentation**: https://prismic.io/docs/field#key-text
    */
-  instituition: prismic.KeyTextField;
+  institution: prismic.KeyTextField;
 
   /**
    * Description field in *Experience → Items*
