@@ -1,4 +1,6 @@
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import clsx from "clsx";
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 import "./globals.css";
@@ -17,11 +19,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="bg-slate-900 text-slate-100">
-      <body className={urbanist.className}>
+      <body className={clsx(urbanist.className, "relative min-h-screen")}>
         <Header/>
         {children}
-        <div className="h-[500vh]"></div>
-
+    
+        <Footer/>
+        <div className="absolute inset-0 -z-50 max-h-screen background-gradient"></div>
+        
       </body>
     </html>
   );

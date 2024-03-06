@@ -36,34 +36,55 @@ function Geometries() {
     const geometries = [
         {
             position: [0, 0, 0],
+            r: 0.4,
+            geometry: new THREE.TorusKnotGeometry(1.35, 1.2, 64, 11, 9, 17)
+        },
+        {
+            position: [-1, -0.95, 4.5],
             r: 0.3,
-            geometry: new THREE.IcosahedronGeometry(2.95) //Gem
+            geometry: new THREE.TorusKnotGeometry(0.35, 0.4, 44, 10, 10,6)
         },
         {
-            position: [1, -0.75, 4],
-            r: 0.4,
-            geometry: new THREE.TorusKnotGeometry(0.5, 0.2, 100, 9, 4, 3)
+            position: [2.2, 1.2, -2.5],
+            r: 0.3,
+            geometry: new THREE.TorusKnotGeometry(0.55, 0.72, 64, 11, 1, 19)
         },
         {
-            position: [-1.4, 2, -4],
-            r: 0.4,
-            geometry: new THREE.DodecahedronGeometry(1.5) //Soccer
+            position: [-1.6, 2.2, -4],
+            r: 0.3,
+            geometry: new THREE.TorusKnotGeometry(0.5, 1.2, 37, 10, 6,16)
+        },
 
-        },
         {
-            position: [-0.8, -0.75, 5],
-            r: 0.5,
-            geometry: new THREE.TorusGeometry(0.6, 0.25, 16, 32) //Donut
+            position: [1.2, -0.95, 3],
+            r: 0.3,
+            geometry: new THREE.TorusKnotGeometry(0.45, 0.3, 37, 11, 10,12)
         },
-        {
-            position: [1.6, 1.6, -4],
-            r: 0.5,
-            geometry: new THREE.OctahedronGeometry(1.5)//Diamond
-        }
+        // {
+        //     position: [1, -0.65, 3],
+        //     r: 0.4,
+        //     geometry: new THREE.TorusKnotGeometry(0.5, 0.2, 100, 9, 4, 3)
+        // },
+        // {
+        //     position: [-1.4, 2, -4],
+        //     r: 0.4,
+        //     geometry: new THREE.DodecahedronGeometry(1.5) //Soccer
+
+        // },
+        // {
+        //     position: [1.6, 1.6, -4],
+        //     r: 0.5,
+        //     geometry: new THREE.TorusGeometry(0.5, 0.7, 8, 26) //Donut
+        // },
+        // {
+        //     position: [1.6, 1.6, -4],
+        //     r: 0.5,
+        //     geometry: new THREE.OctahedronGeometry(1.5)//Diamond
+        // }
     ];
 
     const materials = [
-        new THREE.MeshNormalMaterial(),
+        // new THREE.MeshNormalMaterial(),
         new THREE.MeshStandardMaterial({ color: 0x6BAAAF, roughness: 0.8, metalness: 0.1 }),
         new THREE.MeshStandardMaterial({ color: 0xCECAFE, roughness: 0.1, metalness: 0.1 }),
         new THREE.MeshStandardMaterial({ color: 0x617E96, roughness: 0.3, metalness: 0.1 }),
@@ -74,10 +95,10 @@ function Geometries() {
     ];
 
     const soundEffects = [
-        new Audio("/sounds/sound1.ogg"),
-        new Audio("/sounds/sound2.ogg"),
-        new Audio("/sounds/sound3.ogg"),
-        new Audio("/sounds/sound4.ogg"),
+        new Audio("/sounds/sound1.wav"),
+        new Audio("/sounds/sound2.wav"),
+        new Audio("/sounds/sound3.wav"),
+       
     ];
 
     return geometries.map(({ position, r, geometry }) => (

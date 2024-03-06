@@ -31,7 +31,7 @@ const ContentList = ({
 
   const [currentItem, setCurrentItem] = useState<null | number>(null);
 
-  const urlPrefixes = contentType === "Blog" ? "/blog" : "/project";
+  const urlPrefixes = contentType === "Blog" ? "/blog" : "/projects";
 
   const lastMousePos = useRef({ x: 0, y: 0 });
 
