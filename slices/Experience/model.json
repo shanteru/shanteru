@@ -35,10 +35,10 @@
             "placeholder": ""
           }
         },
-        "instituition": {
+        "institution": {
           "type": "Text",
           "config": {
-            "label": "Instituition",
+            "label": "Institution",
             "placeholder": ""
           }
         },

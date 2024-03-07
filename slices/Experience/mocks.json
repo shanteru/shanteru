@@ -30,14 +30,6 @@
 						}
 					],
 					[
-						"instituition",
-						{
-							"__TYPE__": "FieldContent",
-							"value": "mistake",
-							"type": "Text"
-						}
-					],
-					[
 						"description",
 						{
 							"__TYPE__": "StructuredTextContent",
@@ -49,6 +41,14 @@
 									}
 								}
 							]
+						}
+					],
+					[
+						"institution",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "easily",
+							"type": "Text"
 						}
 					]
 				]
