@@ -19,6 +19,7 @@
     Hello 你好  👋
    </h1>
    <p> The name's <b>Chantelle</b> but you can call me <b>shanteru</b> too ✨ </p>
+    <p> Feel free to check out my portfolio @ <a href="https://shanteru.vercel.app/">Chantelle's dev diary</a> too </p>
 </div>
 
 
