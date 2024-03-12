@@ -4,6 +4,7 @@ import clsx from "clsx";
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 import "./globals.css";
+import BackToTop from "@/components/BackToTop";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
 
@@ -25,7 +26,7 @@ export default function RootLayout({
     
         <Footer/>
         <div className="absolute inset-0 -z-50 max-h-screen background-gradient"></div>
-        
+        <BackToTop/>
       </body>
     </html>
   );
