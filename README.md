@@ -21,31 +21,3 @@
    <p> The name's <b>Chantelle</b> but you can call me <b>shanteru</b> too ✨ </p>
     <p> Feel free to check out my portfolio: <a href="https://shanteru.notion.site/Developer-Portfolio-8b1d9345099c450da390c49998e1b314">Developer Profile</a> and diary: <a href="https://shanteru.vercel.app/">Chantelle's dev diary</a></p>
 </div>
-
-
-### :woman_technologist: About Me :
-I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">!
-- :telescope: I am freshly out with a Bachelor of Computer Science (Honours) at Monash University (First Class Honours obtained! Convocation left @ Nov24") 
-
-- 🔎 My Honours research is about ```Explainable Artificial Intelligence on breast cancer detection```
-  
-- :seedling: Exploring Software Development, Machine Learning Deployment and Teaching Code.
-
-- :zap: In my free time, I will work on some web development projects and understand the latest tools available.
-
-- 🌞 My favourite programming style is Object Oriented Programming in Java, especially with my [Zombie Game Project](https://github.com/shanteru/zombie-java) since I enjoy game development a lot.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
-</div>
-
----
-
