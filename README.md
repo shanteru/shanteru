@@ -68,9 +68,9 @@
 <h2 align="left">🌟 Top Used Languages</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG96cDRxeTN2amx3NGR3bm1jeGRlc2FmemNnYnhzZWFmNzgyaTR5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D734TX7eK9ZktSGYUE/giphy.gif" width="245" height="245" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG96cDRxeTN2amx3NGR3bm1jeGRlc2FmemNnYnhzZWFmNzgyaTR5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D734TX7eK9ZktSGYUE/giphy.gif" width="210" height="210" />
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanteru&layout=compact&langs_count=6&exclude_repo=JomStay-Hostel,JavaProgrammingPractice-II,JavaProgrammingPractice-I" />
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdnd2pnYXJtYnR0NXp5YnJhdTdtcThjN2ljdnAxNDJybTZncnl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q7yK22GqmK0sNxdv8V/giphy.gif" width="250" height="250"  />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdnd2pnYXJtYnR0NXp5YnJhdTdtcThjN2ljdnAxNDJybTZncnl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q7yK22GqmK0sNxdv8V/giphy.gif" width="200" height="200"  />
 </div>
 
 
