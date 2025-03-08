@@ -34,7 +34,7 @@
 
 - 🌱  Currently committed in full stack development, I aspire to work on end-to-end systems with a focus on data, as I believe data is the soul of any AI application.
 
-- 👨‍💻 Feel free to check out my projects at my <a href="https://clyw.vercel.app/" target="_blank">portfolio website</a> or explore my <a href="https://shanteru.vercel.app/" target="_blank">design experiment's playground</a>. (Kind of deprecated, will update it when I'm free from work xd)
+- 👨‍💻 Feel free to check out my projects at my <a href="https://clyw.vercel.app/" target="_blank">portfolio website</a> or explore my <a href="https://shanteru.vercel.app/" target="_blank">design experiment's playground</a>. (Kind of outdated, will update it when I'm free from work xd)
 
 
 <br />
